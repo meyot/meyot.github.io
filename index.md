@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -37,3 +39,4 @@ A Mind, Body, and Spirit working in Harmony are Capable of Unlimited Possibiliti
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
+</html>
