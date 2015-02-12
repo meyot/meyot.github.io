@@ -29,6 +29,8 @@ Meyot
 
 A Mind, Body, and Spirit working in Harmony are Capable of Unlimited Possibilities!
 
+John Smith Jr., Re-Entry Specialist / Consultant
+
       </section>
     </div>
     <footer>
