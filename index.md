@@ -1,7 +1,12 @@
 ---
-title: This is my title
+title: Meyot
 layout: page
 ---
 
-Test of using Markdown.
- 
+Meyot
+=====
+
+*Helping People Help Themselves!*
+
+Coming soon!
+
