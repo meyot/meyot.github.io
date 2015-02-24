@@ -1,12 +1,16 @@
 ---
+layout: default
 title: Meyot
-layout: page
 ---
 
-Meyot
-=====
+# Meyot
 
 *Helping People Help Themselves!*
 
-Coming soon!
+## A Community-Based Ministry blah blah
+
+blah blah blah!
+
+blah blah.
+
 
