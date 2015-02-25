@@ -3,15 +3,9 @@ layout: default
 title: Meyot
 ---
 
-<header>
-
 - [How to Help](help.html)
 - [For Clients](clients.html)
 - [Contact](contact.html)
-
-</header>
-
-<section>
 
 # Meyot
 
@@ -22,7 +16,5 @@ title: Meyot
 blah blah blah!
 
 blah blah.
-
-</section>
 
 
