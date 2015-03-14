@@ -9,6 +9,7 @@ published: true
 - [Contact](contact.html)
 
 # Meyot
+**A Mind, Body, and Spirit working in Harmony is Capable of Unlimited Possibilites!**
 
 **Men (women) Enlighting the Youth of Today**  
 
@@ -26,8 +27,3 @@ published: true
  
 #### Objective
 >We as a society are always looking to restore thing and sometimes those things have yet to be built. The objetcive of Meyot is to help facilitate a positive self-image and a winning attitude within the individuals who participate in the program. By helpng participants learn job skills, become aware of their spiritual essence and help them learn what it is they can do within Meyot will help its participants deal with emotional, socail, physical, and mental anxiety that come from the doubts when making a life altering choice or decision.
- 
- 
-
- 
- 
