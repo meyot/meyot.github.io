@@ -8,12 +8,12 @@ title: Meyot - Classes that are offered
 - [For Clients](clients.html)
 - [Contact](contact.html)
 
-#**Classes that are offered with MEYOT**
+#**The classes that will be offered within the MEYOT Organization.**
 
 
 ## **Week One**
 
-- Pre-Test **Anger'Addiction/Self-esteem
+- Pre-Test **Anger/Addiction/Self-esteem**
 - Scope and Overview of program
 - Sign Confidentiality sheet
 - Intro Seven Steps To Freedom
