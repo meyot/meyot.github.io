@@ -4,8 +4,9 @@ title: Meyot
 published: true
 ---
 
-- [How to Help](help.html)
+- [Welcome](welcome.html)
 - [For Clients](clients.html)
+- [Classes](classes.html)
 - [Contact](contact.html)
 
 # Meyot
