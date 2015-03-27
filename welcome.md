@@ -1,7 +1,13 @@
-- [Meyot](index.html)
-- [How to Help](help.html)
-- [Contact](contact.html)
+---
+layout: default
+title: "Meyot - Foc Clients"
+published: true
+---
 
+- [Main](index.html)
+- [For Clients](clients.html)
+- [Classes](classes.html)
+- [Contact](contact.html)
 
 # Welcome to Meyot
 
