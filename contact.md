@@ -5,8 +5,9 @@ published: true
 ---
 
 - [Meyot](index.html)
-- [How to Help](help.html)
+- [Welcome](welcome.html)
 - [For Clients](clients.html)
+- [Classes](classes.html)
 
 # John Smith Jr. Re-Entry Specailist/Consultant
 
