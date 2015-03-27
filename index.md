@@ -23,7 +23,7 @@ published: true
 
 [Recidivism](http://www.nij.gov/topics/corrections/recidivism/Pages/welcome.aspx)
  
- ### Vision
+### Vision
 
  >The vision of M.E.Y.O.T is to create an environment where the atmosphere will be conducive for changing the thought patterns of participants involved in the program, thereby producing psitive behaviors. Meyot will help guide and encourage individuals transitioning from prison society. Meyot will keep it's participants motivated to move beyond their past and into their future, through various concepts designed to help the individual in pursuit of reaching their full potential.
  
