@@ -5,7 +5,8 @@ published: true
 ---
 
 - [Meyot](index.html)
-- [How to Help](help.html)
+- [Welcome](welcome.html)
+- [Classes](classes.html)
 - [Contact](contact.html)
 
 # Meyot Info for the Clients
