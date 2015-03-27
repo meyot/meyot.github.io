@@ -66,9 +66,9 @@ title: Meyot - Classes that are offered
 
 - Post Test
 
-## **Meyot offers a series of mental steps "The Mind Process" to be a master mind as we journey through these courses. **
+## **Meyot offers a series of mental steps "The Mind Process" to be a master of the mind as we journey through these courses. **
 
 
-Here is where the info goes.
+
 
 
