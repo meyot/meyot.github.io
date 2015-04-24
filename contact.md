@@ -4,11 +4,6 @@ title: "Meyot - Contact"
 published: true
 ---
 
-- [Meyot](index.html)
-- [Welcome](welcome.html)
-- [For Clients](clients.html)
-- [Classes](classes.html)
-
 # John Smith Jr. Re-Entry Specailist/Consultant
 
 **31 Melwood Ave**  

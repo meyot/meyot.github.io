@@ -4,11 +4,6 @@ title: Meyot
 published: true
 ---
 
-- [Welcome](welcome.html)
-- [For Clients](clients.html)
-- [Classes](classes.html)
-- [Contact](contact.html)
-
 # Meyot
 **A Mind, Body, and Spirit working in Harmony is Capable of Unlimited Possibilites!**
 

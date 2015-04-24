@@ -3,11 +3,6 @@ layout: default
 title: Meyot - Classes that are offered
 ---
 
-- [Main](index.html)
-- [Welcome](welcome.html)
-- [For Clients](clients.html)
-- [Contact](contact.html)
-
 #**The classes that will be offered within the MEYOT Organization.**
 
 
