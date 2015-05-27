@@ -11,6 +11,8 @@ published: true
 
 **_Helping People Help Themselves!_**
 
+![MEYOT logo](images/meyotbw.png)
+
 ## Mission Statement
 
 >To create an atmosphere conducive for changing the thought patterns of an individual; thereby producing positive behavior.  To create a positive mental attitude within an individual who is having a difficult time transitioning from prison. Rescind the ptterns of recidivism.
