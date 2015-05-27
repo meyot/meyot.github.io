@@ -58,7 +58,8 @@ header {
   -o-border-radius: 8px 8px 0 0;
   border-radius: 8px 8px 0 0;
   background-image: url("../images/meyot-sunbeams.png");
-  height: 238px;
+  # height: 238px;
+  width: 640px;
   background-size: 100% 100%;
   #background: #C6EAFA;
   #background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ddfbfc), color-stop(100%, #c6eafa));
